@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\SampleApp.csproj</ProjectPath>
+  <FilesToAnalyzePath>D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\.sonarqube\out\0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net5.0</TargetFramework>
+</SonarProjectConfig>

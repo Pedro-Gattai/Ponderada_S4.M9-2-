@@ -1,0 +1,13 @@
+﻿D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\Controllers\SampleController.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\Program.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\SampleModel.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\Startup.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\obj\Debug\net5.0\SampleApp.AssemblyInfo.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\obj\Debug\net5.0\SampleApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\appsettings.Development.json
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\appsettings.json
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\.gitignore
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\LICENSE
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\README.md
+D:\Usuarios\Admin\Documents\Ponderada_S4.M9-2-\dotnet-sonarqube-example\Properties\launchSettings.json

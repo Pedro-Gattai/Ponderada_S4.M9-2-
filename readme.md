@@ -1,13 +1,17 @@
 # Docs
-No tutorial "Continuous Code Quality with SonarQube and .NET" da Okta, os desenvolvedores têm a oportunidade de mergulhar em uma jornada de aprimoramento da qualidade do código em projetos .NET. Este recurso aborda uma variedade de aspectos cruciais, desde a compreensão da importância da qualidade do código até a implementação prática das melhores práticas com o SonarQube.
+Ao seguir o tutorial "Continuous Code Quality with SonarQube and .NET" da Okta, aprendi uma série de habilidades e conceitos valiosos que contribuíram significativamente para o meu desenvolvimento como programador .NET. Primeiramente, compreendi a importância essencial da qualidade do código em qualquer projeto de software. Aprendi como a qualidade do código não apenas afeta a manutenibilidade e a segurança do software, mas também sua escalabilidade e robustez.
 
-Primeiramente, os leitores podem aprender sobre a importância fundamental da qualidade do código em qualquer projeto de software. A compreensão de como a qualidade do código afeta diretamente a manutenibilidade, segurança e escalabilidade do software é essencial para qualquer desenvolvedor.
+Explorar detalhadamente o SonarQube e sua aplicação em projetos .NET foi uma parte fundamental do aprendizado. Aprendi a interpretar as métricas e análises estáticas fornecidas pelo SonarQube, permitindo-me identificar e corrigir problemas de código com maior eficiência. Além disso, compreendi como integrar o SonarQube em fluxos de trabalho de desenvolvimento, tornando a análise de código uma parte essencial do processo de integração contínua.
 
-Além disso, o tutorial oferece uma visão detalhada do SonarQube e sua aplicação em projetos .NET. Os desenvolvedores podem explorar as métricas e análises estáticas fornecidas pelo SonarQube, compreendendo como interpretar esses dados para melhorar o código existente e evitar problemas comuns de qualidade.
+Ao longo do tutorial, fui capacitado a entender como interpretar os dados fornecidos pelo SonarQube e aplicar esse conhecimento na melhoria contínua da qualidade do código. A habilidade de identificar e corrigir problemas de código com base no feedback do SonarQube não apenas elevou o padrão do meu código, mas também contribuiu para uma cultura de excelência em qualidade de código.
 
-A integração do SonarQube em fluxos de trabalho de desenvolvimento é outro ponto crucial abordado no tutorial. Os leitores aprenderão a incorporar a análise de código automatizada fornecida pelo SonarQube em seus processos de integração contínua, garantindo que a qualidade do código seja mantida e melhorada em todas as iterações do desenvolvimento de software.
-
-Por fim, os desenvolvedores são capacitados a identificar e corrigir eficientemente problemas de código com base nas informações e feedbacks fornecidos pelo SonarQube. Isso não apenas resulta em um código mais limpo e sustentável, mas também ajuda a criar uma cultura de excelência em qualidade de código dentro da equipe de desenvolvimento. Em resumo, o tutorial oferece um guia abrangente e prático para elevar os padrões de qualidade do código em projetos .NET, capacitando os desenvolvedores a produzir software mais confiável, seguro e de fácil manutenção.
+Em resumo, o tutorial proporcionou uma base sólida para aprimorar a qualidade do meu código em projetos .NET, capacitando-me a produzir software mais confiável, seguro e de fácil manutenção.
 
 # Codigo funcionando
-<img src="">
+<img src="./CodigoFuncionando.png">
+
+Na primeira imagem vemos o codigo em execucao no terminal.
+
+<img src="./SonarQubeDash.png">
+
+Na segunda imagem vemos o dashboard do Sonarqube rodando na porta 9000, como tambem e possivel ver algumas informacoes sobre a analise do codigo.

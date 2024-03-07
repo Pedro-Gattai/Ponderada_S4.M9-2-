@@ -15,3 +15,4 @@ Na primeira imagem vemos o codigo em execucao no terminal.
 <img src="./SonarQubeDash.png">
 
 Na segunda imagem vemos o dashboard do Sonarqube rodando na porta 9000, como tambem e possivel ver algumas informacoes sobre a analise do codigo.
+
